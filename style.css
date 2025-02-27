@@ -15,3 +15,38 @@ a {
 footer > ul > li > p {
   color: var(--text-color);
 }
+.navigation > li > a {
+  font-family: "Roboto";
+  font-weight: medium;
+  font-size: 14px;
+}
+.gmail-number > li > a {
+  font-family: "Roboto";
+  font-weight: medium;
+  font-size: 14px;
+}
+.nav-button > li > button > p {
+  font-family: "Roboto";
+  font-weight: medium;
+  font-size: 16px;
+}
+h4 {
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 18px;
+}
+.project-nav > li > p {
+  font-family: "Roboto";
+  font-weight: normal;
+  font-size: 16px;
+}
+.footer > ul > li > p {
+  font-family: "Roboto";
+  font-weight: normal;
+  font-size: 14px;
+}
+.footer > ul > li > a {
+  font-family: "Roboto";
+  font-weight: normal;
+  font-size: 14px;
+}

@@ -1,0 +1,17 @@
+:root {
+  --text-color: #ffffff;
+  --background-color: #2f303a;
+  --button-color: #2196f3;
+}
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+.footer {
+  background-color: var(--background-color);
+}
+footer > ul > li > p {
+  color: var(--text-color);
+}
